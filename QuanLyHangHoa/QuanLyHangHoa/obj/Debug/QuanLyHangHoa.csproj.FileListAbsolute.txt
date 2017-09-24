@@ -1,0 +1,9 @@
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csprojResolveAssemblyReference.cache
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.Cache
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
+F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.view.ListNhanVien.resources

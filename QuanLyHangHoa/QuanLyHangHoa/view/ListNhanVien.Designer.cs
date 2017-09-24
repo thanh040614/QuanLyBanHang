@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.gbThongTin = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.btnHuy = new System.Windows.Forms.Button();
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
@@ -67,6 +68,7 @@
             this.gbThongTin.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbThongTin.Controls.Add(this.label1);
             this.gbThongTin.Controls.Add(this.btnHuy);
             this.gbThongTin.Controls.Add(this.btnLuu);
             this.gbThongTin.Controls.Add(this.btnSua);
@@ -92,6 +94,15 @@
             this.gbThongTin.TabIndex = 1;
             this.gbThongTin.TabStop = false;
             this.gbThongTin.Text = "Thông Tin Sinh Viên";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(105, 220);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "label1";
             // 
             // btnHuy
             // 
@@ -142,6 +153,7 @@
             this.btnThem.TabIndex = 12;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // dtNamSinh
             // 
@@ -400,5 +412,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn DT_NV;
         private System.Windows.Forms.DataGridViewTextBoxColumn NGAYVAOLAM_NV;
         private System.Windows.Forms.DataGridViewTextBoxColumn DIACHI_NV;
+        private System.Windows.Forms.Label label1;
     }
 }

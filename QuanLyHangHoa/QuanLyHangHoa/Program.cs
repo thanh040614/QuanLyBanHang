@@ -18,7 +18,7 @@ namespace QuanLyHangHoa
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
-            Application.Run(new frmMain1());
+            Application.Run(new ListNhanVien());
         }
     }
 }

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QuanLyHangHoa.model;
 
 namespace QuanLyHangHoa.view
 {
@@ -44,6 +45,26 @@ namespace QuanLyHangHoa.view
 
 
 
+
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            ConnectToSQL sql = new ConnectToSQL();
+            try
+            {
+                sql.open();
+                label1.Text = "Success";
+            }
+            catch (Exception ex)
+            {
+                label1.Text = ex.Message;
+            }
+           
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
     }

@@ -7,3 +7,11 @@ F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.Genera
 F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
 F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
 F:\QLHangPhuot\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.view.ListNhanVien.resources
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.view.ListNhanVien.resources
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.Cache
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+F:\QLHH\QuanLyBanHang\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
